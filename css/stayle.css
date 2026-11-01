@@ -1,3 +1,13 @@
+.first{
+color:white;
+background-color: goldenrod;
+font-weight: bold;
+}
+
+div{
+    color: brown;
+}
+
 h1{
     color: goldenrod;
 }
